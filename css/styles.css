@@ -640,6 +640,8 @@ footer {
   min-width: 200px;
   min-height: 50px;
 
+  cursor: pointer;
+
   padding: 10px 28px;
   margin-left: 12px;
   font-weight: 700;
